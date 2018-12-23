@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sort", "ConsoleApp1\sort.csproj", "{2BCFB8C0-1B82-4AE3-91CE-624B55FC8300}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sort", "ConsoleApp1\sort.csproj", "{2BCFB8C0-1B82-4AE3-91CE-624B55FC8300}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Perfect number", "..\Perfect number\Perfect number\Perfect number.csproj", "{144ADC08-CFC2-493D-8531-AE897825B531}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{2BCFB8C0-1B82-4AE3-91CE-624B55FC8300}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BCFB8C0-1B82-4AE3-91CE-624B55FC8300}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BCFB8C0-1B82-4AE3-91CE-624B55FC8300}.Release|Any CPU.Build.0 = Release|Any CPU
+		{144ADC08-CFC2-493D-8531-AE897825B531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{144ADC08-CFC2-493D-8531-AE897825B531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{144ADC08-CFC2-493D-8531-AE897825B531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{144ADC08-CFC2-493D-8531-AE897825B531}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
